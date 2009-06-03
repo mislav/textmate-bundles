@@ -10,18 +10,17 @@ To checkout this project and all bundles it links to:
 
 	git clone git://github.com/textmate/bundles.git
 	cd bundles
-	git submodule init
-	git submodule sync
+	git submodule update --init
 
-# Getting Bundles Listed
+# Getting Your Bundle Added
 
 If you have a bundle and think it should be included then fork this project and run:
 
-	git submodule add «your bundle url» «name».tmbundle
+	git submodule add «public url» «name».tmbundle
 	git commit
 
-In the commit message make the first line (summary) a short description of the purpose of your bundle. In the listing of bundles that line will be shown after your bundle so do not put in e.g. “Bundle for Java” if you add a Java bundle.
+In the commit message make the first line (summary) a short description of your bundle. In the list it will be shown after your bundle so make it as descriptive as possible.
 
-Things worth mentioning in the summary are if the bundle is for a programming language, build system, markup language, framework (javascript), database system, related to web development, etc.
+Things worth mentioning in the summary are if the bundle is for a programming language, build system, markup language, (javascript) framework, database system, related to web development, etc.
 
 After committing your change you can push to GitHub and send us a pull request.
