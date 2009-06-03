@@ -1,0 +1,3 @@
+[submodule "Git.tmbundle"]
+	path = Git.tmbundle
+	url = git://github.com/timcharper/git-tmbundle.git
