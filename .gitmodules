@@ -1,3 +1,6 @@
 [submodule "Git.tmbundle"]
 	path = Git.tmbundle
 	url = git://github.com/timcharper/git-tmbundle.git
+[submodule "ShellScript.tmbundle"]
+	path = ShellScript.tmbundle
+	url = git://github.com/mkhl/shellscript.tmbundle.git
