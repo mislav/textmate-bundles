@@ -4,3 +4,6 @@
 [submodule "ShellScript.tmbundle"]
 	path = ShellScript.tmbundle
 	url = git://github.com/mkhl/shellscript.tmbundle.git
+[submodule "Java.tmbundle"]
+	path = Java.tmbundle
+	url = git://github.com/alkemist/Java.tmbundle.git
