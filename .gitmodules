@@ -7,3 +7,6 @@
 [submodule "Java.tmbundle"]
 	path = Java.tmbundle
 	url = git://github.com/alkemist/Java.tmbundle.git
+[submodule "JavaDoc.tmbundle"]
+	path = JavaDoc.tmbundle
+	url = git://github.com/alkemist/JavaDoc.tmbundle.git
