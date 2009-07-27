@@ -168,7 +168,7 @@
 	url = git://github.com/textmate/java.tmbundle.git
 [submodule "Ack.tmbundle"]
 	path = Ack.tmbundle
-	url = git://github.com/protocool/ack-tmbundle.git
+	url = git://github.com/jakob-stoeck/ack-tmbundle.git
 [submodule "Asciidoc.tmbundle"]
 	path = Asciidoc.tmbundle
 	url = git://github.com/zuckschwerdt/asciidoc.tmbundle.git
