@@ -181,3 +181,6 @@
 [submodule "Sass.tmbundle"]
 	path = Sass.tmbundle
 	url = git://github.com/seaofclouds/sass-textmate-bundle.git
+[submodule "Mustache.tmbundle"]
+	path = Mustache.tmbundle
+	url = git://github.com/tekkub/Mustache.tmbundle.git
