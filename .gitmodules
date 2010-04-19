@@ -166,9 +166,6 @@
 [submodule "Java.tmbundle"]
 	path = Java.tmbundle
 	url = git://github.com/textmate/java.tmbundle.git
-[submodule "Ack.tmbundle"]
-	path = Ack.tmbundle
-	url = git://github.com/jakob-stoeck/ack-tmbundle.git
 [submodule "Asciidoc.tmbundle"]
 	path = Asciidoc.tmbundle
 	url = git://github.com/zuckschwerdt/asciidoc.tmbundle.git
@@ -187,3 +184,6 @@
 [submodule "CoffeeScript.tmbundle"]
 	path = CoffeeScript.tmbundle
 	url = git://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "AckMate.tmbundle"]
+	path = AckMate.tmbundle
+	url = git://github.com/protocool/AckMate.git
