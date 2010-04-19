@@ -184,3 +184,6 @@
 [submodule "CoffeeScript.tmbundle"]
 	path = CoffeeScript.tmbundle
 	url = git://github.com/jashkenas/coffee-script-tmbundle.git
+[submodule "Gists.tmbundle"]
+	path = Gists.tmbundle
+	url = git://github.com/ivanvc/gists-tmbundle.git
