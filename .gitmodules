@@ -178,9 +178,12 @@
 [submodule "Webrat.tmbundle"]
 	path = Webrat.tmbundle
 	url = git://github.com/bmabey/webrat-tmbundle.git
-[submodule "Sass.tmbundle"]
-	path = Sass.tmbundle
-	url = git://github.com/seaofclouds/sass-textmate-bundle.git
 [submodule "Mustache.tmbundle"]
 	path = Mustache.tmbundle
 	url = git://github.com/tekkub/Mustache.tmbundle.git
+[submodule "Ruby Sass.tmbundle"]
+	path = Ruby Sass.tmbundle
+	url = git://github.com/charlesr/ruby-sass-tmbundle.git
+[submodule "CoffeeScript.tmbundle"]
+	path = CoffeeScript.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle.git
